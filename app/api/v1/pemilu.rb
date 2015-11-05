@@ -5,7 +5,7 @@ module Pemilu
     format :json
 
     resource :caleg do
-      desc "Return list of candidates based on age"
+      desc "Return list of candidates by age"
       get do
         results = Caleg.apiall(params)
         {
