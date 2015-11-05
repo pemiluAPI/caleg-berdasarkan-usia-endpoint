@@ -8,7 +8,7 @@
 3. `$ bundle exec rails server`
 
 ## Data
-[Caleg Berdasarkan Usia](https://github.com/pemiluAPI/pemilu-data/tree/master/caleg-berdasarkan-usia-endpoint)
+[Caleg Berdasarkan Usia](https://github.com/pemiluAPI/pemilu-data/tree/master/caleg-berdasarkan-usia)
 
 ## Documentation API
 See [Documentation API](http://docs.calegberdasarkanusia.apiary.io/) for information on defining and using caleg-berdasarkan-usia-endpoint
