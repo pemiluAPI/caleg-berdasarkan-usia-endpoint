@@ -22,6 +22,7 @@ class Caleg < ActiveRecord::Base
     return {
       id: id,
       peserta: peserta,
+      nama_lengkap: nama_lengkap,
       jumlah_di_bawah_sama_dengan_tiga_puluh: jumlah_di_bawah_sama_dengan_tiga_puluh,
       jumlah_di_atas_tiga_puluh: jumlah_di_atas_tiga_puluh
     }
